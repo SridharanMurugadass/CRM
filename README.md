@@ -1,4 +1,4 @@
-# Vue 2 CRM
+# CRM
 
 > A reusable Vue.js CRM starter project for real-world business based on Vue 2 PWA template with Vuetify.
 
